@@ -20,8 +20,8 @@ const InstructionsList = [
   },
   {
     title: "News by Sources",
-    categories: "Sources- ABC News, Wired, BBC, Time, IGN, Buzzfeed, CNN...",
-    subtitle: "Try saying- Give me the news from CNN",
+    categories: "Sources- ABC News, Wired, BBC, Time, IGN, Buzzfeed...",
+    subtitle: "Try saying- Give me the news from BBC newss",
   },
 ];
 
