@@ -1,0 +1,22 @@
+body {
+  background: radial-gradient(#e5e5e5, #ffff, #e5e5e5);
+  margin-top: 5rem;
+}
+
+.card {
+  width: 30rem;
+
+  margin-right: 2rem;
+  justify-content: space-between;
+}
+
+.card-text {
+  margin-top: 2rem;
+}
+.card:hover {
+  box-shadow: 5px 10px 20px 1px rgba(0, 0, 0, 0.253) !important;
+}
+
+.instruction {
+  display: inline-flex;
+}
